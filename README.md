@@ -5,7 +5,7 @@
 
 ### Languages and Tools:
 
-<p align="center">
+<p align="">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="vertical-align:top; margin:4px">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C" width="40" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -17,7 +17,7 @@
 
 
 ### My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pal8304&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pal8304&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pal8304&theme=dark) -->
 
