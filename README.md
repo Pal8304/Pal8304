@@ -1,7 +1,7 @@
-## Hey there, I'm Palash Jhaveri 👋
+## Hey there, I'm Palash Jhaveri
 
-- I am 2nd year Computer Science student at Nirma University
-- I am a competitive programmer, starting my journey of web development 
+- I am Final year Computer Science student
+- I am a competitive programmer, trying get into dev
 
 ### Languages and Tools:
 
@@ -16,8 +16,8 @@
 </p>
 
 
-### My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pal8304&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+<!-- ### My GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pal8304&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pal8304&theme=dark) -->
 
