@@ -17,7 +17,7 @@
 
 ### My GitHub Stats:
 
-[![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pal8304)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pal8304&theme=dark&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pal8304&theme=dark) -->
 
