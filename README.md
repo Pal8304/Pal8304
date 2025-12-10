@@ -15,15 +15,13 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+### My GitHub Stats:
 
-<!-- ### My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pal8304&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) -->
+[![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pal8304)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pal8304&theme=dark) -->
-
 
 ### Socials:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palash-jhaveri/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PalJ_08)
-
